@@ -2,7 +2,7 @@
 
 ## Installation and Setup
 
-Run Composer Install WHATNAMEHAVE I GIVEN THIS??
+Run Composer Install msalter/oopmvc
 
 ### Config File 
 
