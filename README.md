@@ -36,5 +36,5 @@ e.g. `myapp.com/user/users/login`
 This framework has been designed to follow a file structure similar to Magento, with modularised components. 
 Each component should contain its own controller and models. As well as any interfaces/abstracts that you wish to use. 
 
-![](../../../../../var/folders/z6/b1nzh0t17vncrztrztkpy4n80000gp/T/TemporaryItems/NSIRD_screencaptureui_YqRPwg/Screenshot 2022-07-14 at 10.37.58.png)
+[Imgur](https://i.imgur.com/ehBm1C7.png)
 
