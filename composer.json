@@ -2,6 +2,7 @@
     "name": "msalter/oopmvc",
     "description": "A simple OOP post app",
     "type": "project",
+    "license": "MIT",
     "authors": [
         {
             "name": "Mike Salter",
